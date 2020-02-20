@@ -1,0 +1,35 @@
+
+Tasks per user: 
+admin: 1
+aden: 2
+robin: 0
+sarah: 3
+jack: 0
+bob: 0
+liam: 0
+
+Percentage of all tasks assigned to user: 
+admin: 14.29%
+aden: 28.57%
+robin: 0.00%
+sarah: 42.86%
+jack: 0.00%
+bob: 0.00%
+liam: 0.00%
+
+Percentage of tasks assigned to user that have been completed: 
+admin: 100.00%
+aden: 0.00%
+sarah: 66.67%
+
+Percentage of tasks assigned to user that are incomplete:
+admin: 0.00%
+aden: 100.00%
+sarah: 33.33%
+
+Percentage of tasks assigned to user that are incomplete and overdue:
+admin: 0.00%
+aden: 50.00%
+sarah: 0.00%
+
+If a user's name does not appear above, it means they do not have any assigned tasks.
